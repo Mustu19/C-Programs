@@ -1,0 +1,1 @@
+The double value of integer is 106

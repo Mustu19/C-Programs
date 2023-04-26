@@ -1,0 +1,5 @@
+file ma read wala ma program khali file no data read karine show karse.
+mtlb ema fscanf na use thi data output ma show thase.
+
+file ma write wala program ma file ma data nakhi sakase.
+mtlb ema fprintf thi data input thase file ma.
